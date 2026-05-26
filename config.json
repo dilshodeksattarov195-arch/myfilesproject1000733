@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcender",
+        "uuid": 6319193,
+        "checksum": "aowj8e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
